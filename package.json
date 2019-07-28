@@ -1,6 +1,6 @@
 {
   "name": "ietf-locale-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A parser for IETF language tags",
   "main": "lib/IetfLocaleParser.js",
   "devDependencies": {
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/witty-pigeon/ietf-locale-parser.git"
   },
-  "keywords": [],
+  "keywords": ["ietf", "language", "locale", "subtags", "iana", "bcp47", "iso639"],
   "author": "Witty Pigeon",
   "license": "MIT",
   "bugs": {
