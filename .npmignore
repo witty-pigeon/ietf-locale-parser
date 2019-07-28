@@ -1,0 +1,8 @@
+/node_modules/
+/src/
+/__tests__/
+/.cache/
+/coverage
+jest.config.js
+*.map
+.babelrc

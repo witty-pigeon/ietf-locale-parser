@@ -1,0 +1,31 @@
+{
+  "name": "ietf-locale-parser",
+  "version": "1.0.0",
+  "description": "A parser for IETF language tags",
+  "main": "lib/IetfLocaleParser.js",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-named-capturing-groups-regex": "^7.4.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@types/jest": "^24.0.15",
+    "jest": "^24.8.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "build": "parcel build -d lib/ src/*.js",
+    "test": "jest",
+    "start": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witty-pigeon/ietf-locale-parser.git"
+  },
+  "keywords": [],
+  "author": "Witty Pigeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/witty-pigeon/ietf-locale-parser/issues"
+  },
+  "homepage": "https://github.com/witty-pigeon/ietf-locale-parser#readme"
+}
