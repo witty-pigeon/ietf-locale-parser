@@ -1,6 +1,6 @@
 {
   "name": "ietf-locale-parser",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A parser for IETF language tags",
   "main": "lib/IetfLocaleParser.js",
   "devDependencies": {
