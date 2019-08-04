@@ -8,7 +8,7 @@
     "@babel/plugin-transform-named-capturing-groups-regex": "^7.4.5",
     "@babel/plugin-transform-modules-commonjs": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
-    "@types/jest": "^24.0.15",
+    "@types/jest": "^24.0.16",
     "jest": "^24.8.0",
     "parcel-bundler": "^1.12.3"
   },
@@ -21,7 +21,15 @@
     "type": "git",
     "url": "git+https://github.com/witty-pigeon/ietf-locale-parser.git"
   },
-  "keywords": ["ietf", "language", "locale", "subtags", "iana", "bcp47", "iso639"],
+  "keywords": [
+    "ietf",
+    "language",
+    "locale",
+    "subtags",
+    "iana",
+    "bcp47",
+    "iso639"
+  ],
   "author": "Witty Pigeon",
   "license": "MIT",
   "bugs": {

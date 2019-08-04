@@ -59,7 +59,7 @@ describe('IETF Locale Parser', () => {
       region: 'CV',
       variant: 'arevela',
       extension: 'g-231243-r-sdarre',
-      private: 'x-private-x-private1'
+      priv: 'x-private-x-private1'
     });
   });
 
